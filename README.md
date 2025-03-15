@@ -1,6 +1,4 @@
 # Pneumonia-Detection-using-CNN
-# Pneumonia Detection Using CNN
-
 ##  Project Overview
 This project utilizes **Convolutional Neural Networks (CNNs)** to classify **chest X-ray images** as either **Pneumonia** or **Normal**. The goal is to develop an **automated and accurate diagnostic system** that assists medical professionals in detecting pneumonia more efficiently.
 
